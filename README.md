@@ -19,7 +19,7 @@ A repository showcasing **Google Gemma models** for practical use cases, includi
 brew install ollama
 
 # Pull the Gemma 3 model
-ollama pull gemma:3b
+ollama pull gemma3:4b
 
 # Install dependencies
 pip install -r requirements.txt
